@@ -1,0 +1,117 @@
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\MaterialSkin.dll
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\obj\Debug\PaymentsManagement.csproj.AssemblyReference.cache
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\obj\Debug\PaymentsManagement.csproj.SuggestedBindingRedirects.cache
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\obj\Debug\PaymentsManagement.Form1.resources
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\obj\Debug\PaymentsManagement.Properties.Resources.resources
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\obj\Debug\PaymentsManagement.csproj.GenerateResource.cache
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\obj\Debug\PaymentsManagement.csproj.CoreCompileInputs.cache
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\obj\Debug\PaymentsManagement.csproj.CopyComplete
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\obj\Debug\PaymentsManagement.AddNewClient.resources
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\obj\Debug\PaymentsManagement.MoneyOut.resources
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\mongocrypt.dll
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\AWSSDK.Core.dll
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\AWSSDK.SecurityToken.dll
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\DnsClient.dll
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\Microsoft.Win32.Registry.dll
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\MongoDB.Bson.dll
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\MongoDB.Driver.Core.dll
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\MongoDB.Driver.dll
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\MongoDB.Libmongocrypt.dll
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\SharpCompress.dll
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\Snappier.dll
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Buffers.dll
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Memory.dll
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Numerics.Vectors.dll
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Security.AccessControl.dll
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Security.Principal.Windows.dll
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\ZstdSharp.dll
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\AWSSDK.Core.pdb
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\AWSSDK.Core.xml
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\AWSSDK.SecurityToken.pdb
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\AWSSDK.SecurityToken.xml
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\DnsClient.xml
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\MongoDB.Bson.xml
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\MongoDB.Driver.xml
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\MongoDB.Driver.Core.xml
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\Snappier.xml
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Buffers.xml
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Memory.xml
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Numerics.Vectors.xml
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Security.AccessControl.xml
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Security.Principal.Windows.xml
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\obj\Debug\PaymentsManagement.History.resources
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\GroupOfSethQayyum.exe.config
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\GroupOfSethQayyum.exe
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\GroupOfSethQayyum.pdb
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\obj\Debug\GroupOfSethQayyum.exe
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\obj\Debug\GroupOfSethQayyum.pdb
+E:\Fiverr\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\obj\Debug\PaymentsManagement.UI.Details.resources
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\mongocrypt.dll
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\GroupOfSethQayyum.exe.config
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\GroupOfSethQayyum.exe
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\GroupOfSethQayyum.pdb
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\AWSSDK.Core.dll
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\AWSSDK.SecurityToken.dll
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\DnsClient.dll
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\MaterialSkin.dll
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\Microsoft.Win32.Registry.dll
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\MongoDB.Bson.dll
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\MongoDB.Driver.Core.dll
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\MongoDB.Driver.dll
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\MongoDB.Libmongocrypt.dll
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\SharpCompress.dll
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\Snappier.dll
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Buffers.dll
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Memory.dll
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Numerics.Vectors.dll
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Security.AccessControl.dll
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Security.Principal.Windows.dll
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\ZstdSharp.dll
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\AWSSDK.Core.pdb
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\AWSSDK.Core.xml
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\AWSSDK.SecurityToken.pdb
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\AWSSDK.SecurityToken.xml
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\DnsClient.xml
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\MongoDB.Bson.xml
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\MongoDB.Driver.xml
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\MongoDB.Driver.Core.xml
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\Snappier.xml
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Buffers.xml
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Memory.xml
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Numerics.Vectors.xml
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Security.AccessControl.xml
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Security.Principal.Windows.xml
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\obj\Debug\PaymentsManagement.csproj.AssemblyReference.cache
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\obj\Debug\PaymentsManagement.AddNewClient.resources
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\obj\Debug\PaymentsManagement.UI.Details.resources
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\obj\Debug\PaymentsManagement.Form1.resources
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\obj\Debug\PaymentsManagement.History.resources
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\obj\Debug\PaymentsManagement.MoneyOut.resources
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\obj\Debug\PaymentsManagement.Properties.Resources.resources
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\obj\Debug\PaymentsManagement.csproj.GenerateResource.cache
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\obj\Debug\PaymentsManagement.csproj.CoreCompileInputs.cache
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\obj\Debug\PaymentsManagement.csproj.CopyComplete
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\obj\Debug\GroupOfSethQayyum.exe
+E:\Fiverr\Group of Seth Qayyum\Group of Seth Qayyum\PaymentsManagement\PaymentsManagement\obj\Debug\GroupOfSethQayyum.pdb
